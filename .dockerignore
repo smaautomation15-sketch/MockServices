@@ -1,0 +1,13 @@
+# node_modules is COMMITTED at the repo root and under auth-profiles/. Without
+# these entries the image would carry those vendored trees on top of what the
+# build's own `npm ci` installs. Both patterns are needed: a bare `node_modules`
+# matches only the context root.
+node_modules
+**/node_modules
+.git
+.gitignore
+tests
+.env
+Dockerfile
+.dockerignore
+README.md

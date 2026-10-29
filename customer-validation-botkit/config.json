@@ -1,0 +1,227 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "syncBots": {
+        "token": "a75b69fe782faa8774f0b4b98fe23642f12bc56e62387cd1ac9538a6862d88fb"
+    },
+    "app": {
+        "apiPrefix": "/botkit",
+        "url": "https://preprod-bots.korebots.com"
+    },
+    "validations": {
+        "leastNodeVersion": 10
+    },
+    "credentials": {
+        "apikey": "test_api_key",
+        "appId": "test_app_id",
+        "st-2a6974d2-b3c6-5dbd-8ec7-2f2040130d22": {
+            "apikey": "SDaQEo3wPfpR2aJ1axM3R2RsRZynNPnTrCThBo3vE8U=",
+            "appId": "cs-9c71cc9d-6872-5eda-97da-a16fe8abd078"
+        },
+        "st-e4874727-2883-53be-a277-347a9b1ce8aa": {
+            "apikey": "DyTr8GFHw74/A9iz5tC2MiXE7F12npZS08mYt4O2B+k=",
+            "appId": "cs-827cb014-8f5e-5fc5-99c4-a8c405f371c8"
+        },
+        "st-cb98a935-d1ca-519a-a227-a09e98e07bd9": {
+            "apikey": "PTvdGxgdeBw0pw/LEzOkL5BJnExd4jHQC7vlIw+3ZsQ=",
+            "appId": "cs-b078b974-2679-5329-a559-06b4a1215f84"
+        },
+        "st-7133093b-5aac-5a72-bb5f-834affd7d0fd": {
+            "apikey": "IkbZcJ0qgNnSMmkZvQChinmVvosaArJb+/0dNeDDhys=",
+            "appId": "cs-d99e8a1c-202e-5cc8-8904-49c3bdde4665"
+        },
+        "st-c71159d7-2f14-5333-b045-dc2622407dc7": {
+            "apikey": "Td8DhHKuY08pnyon2ux9DSzjNrk7LCrx2ghQzfbvbwQ=",
+            "appId": "cs-939ab8b8-061a-53b2-a28b-9ffe5737e738"
+        },
+        "st-20da6a4e-43b3-57e0-ad29-67566396ca93": {
+            "apikey": "3expZK9C37YG0TKuuroN410q0l3SODO+GCZeKfTirp4=",
+            "appId": "cs-e0f95ba6-c11e-5590-8197-6ccce45ea32d"
+        },
+        "st-dc34bd4a-2e2c-54ab-a125-72c3a1c109a2": {
+            "apikey": "yB7t8JAlSE2dJf6Onj1QeoMre5ViwYR9C3O9qasWfts=",
+            "appId": "cs-279b7a1a-1503-55ed-9147-0686d5f482cd"
+        },
+        "st-908f76b2-388b-5c41-8cab-fe634a68e115": {
+            "apikey": "SMxDKLtdbScs/VbdfhGNHiUuPlVKatC3AHIcrPJzvgY=",
+            "appId": "cs-745736e1-1993-5f07-b25a-b0ed2f49e9b2"
+        },
+        "st-e1d4ee37-7ce1-5f04-b715-040555d82609": {
+            "apikey": "FilTgeAdadPQ7M2bZ61Twf7mrA3b03T9x7cM7uOdqUA=",
+            "appId": "cs-218a785a-a6ae-5855-b0fc-5aabba4917a9"
+        },
+        "st-305ab328-3d3a-50c2-b5d8-4657c24e844c": {
+            "apikey": "aflCSar9srzhg8rCVPcDoVkaXmYMMpi3W3bpF1hSl00=",
+            "appId": "cs-21387fcf-1d89-5e3b-bb66-7d63e63f3ca9"
+        },
+        "st-7fae3ed8-dbe6-5444-801a-4dab03db147e": {
+            "apikey": "Fl7Yy7++BR5H9qxwe7B1PeFh4OSPa7HLvI4Rtyio49o=",
+            "appId": "cs-2bad1fea-2270-5434-9c8c-9e14392bf030"
+        },
+        "st-92575b9d-f6a7-555c-8609-e03d2d7c6b2a": {
+            "apikey": "7ZdQDMELXv5nlE1+3gRJQrOwEBF2kGEvYXba69eFVgI=",
+            "appId": "cs-3d6103ab-93af-5e1d-9e7e-8bbb2ff0d2d3"
+        },
+        "st-4cf14bf2-4ec7-5bcb-a760-8a34a69a9ce9": {
+            "apikey": "Cj65NbXURZEcHUZYcV0j9sLHRlQxhNpsGOEotjSasrY=",
+            "appId": "cs-2e85927d-bf42-5492-8471-80392267e584"
+        },
+        "st-c4a17f7f-0554-57ca-afce-a85223cf2e10": {
+            "apikey": "n7JD7ObusdL8u4gkg/1E1dQcw094IbmddC519QWqwtQ=",
+            "appId": "cs-1199205d-32d7-59da-bdf4-db05ef075d3f"
+        },
+        "st-371d76bf-9abb-51b7-8845-8d6434a5b058": {
+            "apikey": "aPNwZ54Q36IiXcIOof53sWKlqvq3rq/iUyG5nLQEu1s=",
+            "appId": "cs-a73d6614-c3ef-53d0-951d-8f61fc693e56"
+        },
+        "st-9f47bfb5-ca57-57fb-8556-09b2bbcb905a": {
+            "apikey": "12nZ2t5fitkhl+egWdgEm2wH8iGyYmKziUB7C2iNeZ4=",
+            "appId": "cs-81f88a63-dd87-58e8-811f-622aa7c36349"
+        },
+        "st-5bd36ba1-3507-5725-96fa-4a3691906976": {
+            "apikey": "3vcZSshxaTuzv5udomCFnenMQB+WDo10ikx0jyk0PNU=",
+            "appId": "cs-98becb6f-35b2-59b9-8bfe-4de5ea3d2871"
+        },
+        "st-3bf33d22-bf1c-5365-8112-817a6f29b065": {
+            "apikey": "HtS/izXRgRu/KcgD5G8EZC8nOcTcRn/vJ9fx1zivxQU=",
+            "appId": "cs-72ea751e-0c7b-57d7-8c2d-1ee21b4d4f7e"
+        },
+        "st-b474cb4f-a902-50af-a34a-a26774c11641": {
+            "apikey": "vsdnfLgus0Ng8HaIh4YGznhF925vXipn48Zvq0GwDR4=",
+            "appId": "cs-253db53e-8f50-59a0-971e-9fad5739e010"
+        },
+        "st-dc2c8eb2-3f80-5da6-a0a3-eba08786ffdb": {
+            "apikey": "4Y0gD0RV/YmlV2WnApFkQ2BwGxUimas8vUWI0T6La4U=",
+            "appId": "cs-d1b6fc1c-6b99-54d0-bd4b-3adad6bbbd86"
+        },
+        "st-761c26d9-4af1-5241-bc78-80abfa2aee38": {
+            "apikey": "sTWy90DC1oxuuDcXbbOgzXxvEywva+HXKLzF/fAUioY=",
+            "appId": "cs-d0b96975-91b5-57eb-b95a-987f38fa0810"
+        },
+        "st-cf5e17b6-5090-5d0e-a142-d9823d96d050": {
+            "apikey": "FqC+8xks1wYzVZEeBfZHMgLH8YIT8I31hJZu25g2uAE=",
+            "appId": "cs-87095c4c-5432-5294-a4eb-7f784b7ec018"
+        },
+        "st-92d60063-d463-504a-924b-991b89fc1090": {
+            "apikey": "OzbXTDtHZQNG0SqYSSDDX/6+lesXb3QLfP2OgnADbK8=",
+            "appId": "cs-4f5025f2-961e-5ac3-89d6-1318eb0af610"
+        },
+        "st-d30cbde1-1aba-5591-9d93-456bad5ea3fa": {
+            "apikey": "VjidR0m1R2+Obhtch5uGes+ebgLlq5wXBGE0ii3UQG4=",
+            "appId": "cs-9da64dc6-e82e-57d8-82b0-36ea5689792d"
+        },
+        "st-c9fe6791-0ec1-526f-8634-43717de458af": {
+            "apikey": "D2kRMwC9hlZYDokKczvFYFEa6e/+Rp4cIo7lg0y3LfE=",
+            "appId": "cs-0d221786-1dec-5454-8925-56e5c3c61d9a"
+        },
+        "st-4bf900c6-8701-51b3-99e6-06b537b6d3e0": {
+            "apikey": "rNn4+xgtdOT9SmTE6nd9qt6RgCyiTiEEuAyYKAaMSA4=",
+            "appId": "cs-a23405a6-8ff6-5697-8463-c0939471d310"
+        },
+        "st-2a4e9a5b-1427-59f9-8c25-bd603556fb05": {
+            "apikey": "vUB6qvpDZJ2UAujs6ItRlIyVGK6ToL4T2tsbI2zj21I=",
+            "appId": "cs-c6209952-ef55-5788-bafe-18519a09fbaf"
+        },
+        "st-eda6e83f-66b7-5767-a06f-b2adda488ba3": {
+            "apikey": "bmCCK/CP+DL0cmpO2FnopPanukUV4cA1xfm17HJPboQ=",
+            "appId": "cs-4b8bef41-f124-5f88-b594-203ffc668f35"
+        },
+        "st-fde6f6e5-59cb-5bbc-8bd6-55487a3201c3": {
+            "apikey": "ng7cgUsBBPJiM34E+k+/SlJCPTrGdb2o3JQTzBYHh1k=",
+            "appId": "cs-a70b7435-15da-556b-9dac-08b8c02d486c"
+        },
+        "st-cffdea81-c8c0-554d-bffb-35494268853c": {
+            "apikey": "jqDN7bnBjcbGwJfXjmT1FYiaUsG8B6nYCrxiGow0ZSg=",
+            "appId": "cs-06accf6f-a6ed-5a15-a79d-3135c7f09e5f"
+        },
+        "st-7fb96ae7-a888-5fad-a64d-635bc05fd23e": {
+            "apikey": "8/k6iCEFS1NYji3AVOO1ZPfm7f5RSF2nT7kPcq7D7cs=",
+            "appId": "cs-cd5a0bab-f97f-513f-8f57-790a27d0b359"
+        },
+        "st-179d8106-10f8-561a-9ea2-54f5346a9495": {
+            "apikey": "GC/qcJyOpwebRXs5AEiEFgRF+BcnfM/E8TnP/lUh3EA=",
+            "appId": "cs-f3747747-28f6-5f06-8579-1adc67d7579e"
+        },
+        "st-0edf7e91-bed3-5857-8a06-ce62b7a458e7": {
+            "apikey": "uhyXSSnyfa87Z+R2xyGbgpkoF6OuMzmVOl3HBqkTdII=",
+            "appId": "cs-e543e1f5-bff9-5f6c-b8a1-8580e3fc763b"
+        },
+        "st-a4d173d8-802a-5049-a8f3-ee39a9e7476d": {
+            "apikey": "KiFdGfaaBQblaJb84xqKuSHbiU3ALJ0hBtbOkgZObsg=",
+            "appId": "cs-a6739405-167a-5cc0-8c40-57a1299ede3d"
+        },
+        "st-f0cf046b-a5d2-564b-9fad-dc406ab393d5": {
+            "apikey": "4M/15wFs+KXlyHBeHc6ySjxYf7yP6cYB6YtXsDNXaJU=",
+            "appId": "cs-8db499c6-a78a-5a55-b9d7-1f56259491b3"
+        },
+        "st-362a7c64-9102-503f-bae3-1d85f31c71ed": {
+            "apikey": "rsNwf8K9lK6XWM+Jh4biV2YepnyW3hWXtx799m7//eg=",
+            "appId": "cs-fdbf7fb6-e5c8-5538-b161-4d2c999f0f2b"
+        },
+        "st-acc13225-4862-58da-b88b-8756c3c22fd0": {
+            "apikey": "/PNwVP6sOQTekvi7dPHHlk7Tzxg+NwIy0zdhAavedsk=",
+            "appId": "cs-8cdd9716-059b-5139-8b63-442ae9e4cbdd"
+        },
+        "st-e5200a2f-9b21-5905-a826-62620f761939": {
+            "apikey": "0mnBWIkNVwN7PYgJLN3J/jUagqSklRpWWYHbxe/0fhM=",
+            "appId": "cs-1a572e28-563d-5c36-b20f-a6795643f236"
+        },
+        "st-6eec6819-9567-5649-bf28-a82cc3ab5f69": {
+            "apikey": "8U7wXC2Z4MvdovcIJjg/Wdsdz5HliA8CPXi0b8QM5DY=",
+            "appId": "cs-efb6c3b2-4c6e-5606-a589-d7990139d531"
+        },
+        "st-f2b158ed-fbb1-566a-91fc-27cc16afd98e": {
+            "apikey": "JuzK6nKMOkj5yZ3NR5vH1uJuS9aDGTaopElbHd/ue3U=",
+            "appId": "cs-e4f12ec2-e1c7-56c9-90e1-895108b6e6c9"
+        },
+        "st-33333333-3333-5333-8333-333333333311": {
+            "apikey": "your-api-key1",
+            "appId": "cs-33333333-3333-5333-8333-33333333333311",
+            "source": "db"
+        },
+        "st-33333333-3333-5333-8333-333333333322": {
+            "apikey": "your-api-key1",
+            "appId": "cs-33333333-3333-5333-8333-33333333333322",
+            "source": "db"
+        },
+        "st-33333333-3333-5333-8333-333333333344": {
+            "apikey": "your-api-key1",
+            "appId": "cs-33333333-3333-5333-8333-33333333333344",
+            "source": "db"
+        },
+        "st-33027dcc-3c67-55ce-93e4-fa0dbf48db57": {
+            "apikey": "UkxG8fMrx0xsHLiKADB9msllwTJ/7cILW2ZIFxAnF0M=",
+            "appId": "cs-fa8c6951-6793-5303-8587-525f2777f871"
+        },
+        "st-bbc47d3b-9c31-5434-a93f-c6c158a83059": {
+            "apikey": "YFOVYSKkHASa4wXntZ2KArTWVoYvsm9TbnKXXJyWVT0=",
+            "appId": "cs-466e100c-6abd-5e71-8b40-ad38d58410c5"
+        }
+    },
+    "jwt": {
+        "jwtAlgorithm": "HS256",
+        "jwt-expiry": 60,
+        "st-67890": {
+            "jwtAlgorithm": "HS512",
+            "jwt-expiry": 60
+        }
+    },
+    "redis": {
+        "options": {
+            "host": "127.0.0.1",
+            "port": 6379,
+            "db": 0
+        },
+        "available": true
+    },
+    "examples": {
+        "mockServicesHost": "http://localhost:8004"
+    },
+    "liveagentlicense": "8947569",
+    "supportsMessageAck": true,
+    "languages": [
+        "en",
+        "de"
+    ]
+}

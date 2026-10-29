@@ -1,0 +1,8 @@
+node_modules/
+auth-profiles/node_modules/
+customer-validation-botkit/node_modules/
+
+db/.local-data/
+
+*.log
+*.tmp

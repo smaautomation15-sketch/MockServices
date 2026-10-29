@@ -1,0 +1,13 @@
+Basic Auth:
+To test the basic auth below are the steps:
+1. Run node app.js
+2. Send get request to "http://localhost:3000/auth/protected-basic" with Authorization header as below:
+    Authorization: Basic YWRtaW46cGFzc3dvcmQ=
+    Here it will decode the base64 encoded string and if it matches "admin:password" then it will give success 200 else it will give 401 unauthorized.
+
+
+APIKeyAuth:
+1. Send get request to "http://localhost:3000/auth/protected-apikey" with Authorization header as below:
+    x-api-key: YOUR_API_KEY_1
+
+
