@@ -197,6 +197,10 @@
         "st-bbc47d3b-9c31-5434-a93f-c6c158a83059": {
             "apikey": "YFOVYSKkHASa4wXntZ2KArTWVoYvsm9TbnKXXJyWVT0=",
             "appId": "cs-466e100c-6abd-5e71-8b40-ad38d58410c5"
+        },
+        "st-9a334706-f7b9-529f-91cb-44ada2feb1c7": {
+            "apikey": "eF2+blkeqG3BKv3RgbPLnNaLQt6MsbzyDrH75scueAc=",
+            "appId": "cs-a7e3ccaf-4e31-5409-9f30-c9b88e7707ed"
         }
     },
     "jwt": {
