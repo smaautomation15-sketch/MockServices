@@ -201,6 +201,10 @@
         "st-9a334706-f7b9-529f-91cb-44ada2feb1c7": {
             "apikey": "eF2+blkeqG3BKv3RgbPLnNaLQt6MsbzyDrH75scueAc=",
             "appId": "cs-a7e3ccaf-4e31-5409-9f30-c9b88e7707ed"
+        },
+        "st-970bc8ba-2fea-50e3-82ec-f759d87387f7": {
+            "apikey": "qN8PysyaOP4kXgBuxCqRCy4ImZdeyvbhjQYB0s9C44w=",
+            "appId": "cs-ba895a9f-1598-5cbc-be0c-72bde8f8ca05"
         }
     },
     "jwt": {
